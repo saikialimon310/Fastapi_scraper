@@ -1,0 +1,340 @@
+[
+    {
+        "title": "Mobile App Developer",
+        "company": "Company:PhonePe India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 12–22 LPA",
+        "posted": "Posted on:3 days ago",
+        "description": "Job DescriptionPhonePe is hiring Mobile App Developers to create high-performance Android and iOS applications, integrate payment APIs, and ensure smooth app functionality.",
+        "requirements": [
+            "Strong knowledge of Kotlin/Java for Android or Swift for iOS",
+            "Experience with REST APIs and payment gateway integration",
+            "Understanding of mobile app architecture and best practices",
+            "Knowledge of CI/CD and testing frameworks for mobile apps"
+        ],
+        "apply_link": "https://www.phonepe.com/careers/"
+    },
+    {
+        "title": "Software Developer",
+        "company": "Company:TechCorp Ltd",
+        "location": "Location:Guwahati, Assam",
+        "salary": "₹ 6,00,000 / year",
+        "posted": "Posted on:2 days ago",
+        "description": "Job DescriptionDevelop and maintain web applications using Python and React. Work with cross-functional teams to design, develop, and deploy scalable software solutions that meet business objectives.",
+        "requirements": [
+            "Write clean, maintainable and well-tested code.",
+            "Design and implement scalable backend services and APIs.",
+            "Collaborate with product managers and designers to deliver product features.",
+            "Participate in code reviews and mentor junior engineers.",
+            "Improve system reliability and performance.",
+            "2+ years professional software development experience (or strong projects / internships).",
+            "Comfortable with at least one backend language (Node.js, Python, Java, Go, or C#).",
+            "Familiar with relational databases (Postgres/MySQL) and at least one NoSQL store.",
+            "Experience with containers (Docker) and basic CI/CD concepts.",
+            "Good testing and debugging skills."
+        ],
+        "apply_link": "https://example.com/apply"
+    },
+    {
+        "title": "Android Developer",
+        "company": "Company:AppWorks Innovations",
+        "location": "Location:Kolkata",
+        "salary": "₹ 5–10 LPA",
+        "posted": "Posted on:5 days ago",
+        "description": "Job DescriptionDevelop Android apps using Kotlin, Android Studio, and Jetpack libraries.",
+        "requirements": [
+            "Strong Kotlin skills",
+            "Android Jetpack components",
+            "Knowledge of REST APIs",
+            "Experience with Firebase",
+            "1–2 years experience"
+        ],
+        "apply_link": "https://appworks.io/apply"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Company:InsightTech Analytics",
+        "location": "Location:Hyderabad",
+        "salary": "₹ 5.5–9 LPA",
+        "posted": "Posted on:1 week ago",
+        "description": "Job DescriptionAnalyze datasets, build dashboards, and provide insights to business stakeholders.",
+        "requirements": [
+            "Good SQL skills",
+            "Experience with Power BI or Tableau",
+            "Strong Excel knowledge",
+            "Understanding of statistics",
+            "1–3 years experience"
+        ],
+        "apply_link": "https://insighttech.ai/apply"
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "Company:CodeWave Technologies",
+        "location": "Location:Bangalore, India",
+        "salary": "₹ 8–12 LPA",
+        "posted": "Posted on:1 day ago",
+        "description": "Job DescriptionDevelop responsive, high-performance web interfaces using React.js, Tailwind CSS, and REST APIs.",
+        "requirements": [
+            "Strong React.js fundamentals",
+            "Experience with Tailwind CSS or Bootstrap",
+            "Good understanding of REST/GraphQL",
+            "Experience with Git and CI/CD",
+            "Ability to build pixel-perfect UI",
+            "1–3 years experience"
+        ],
+        "apply_link": "https://codewave.tech/apply"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Company:CodeMatrix Pvt Ltd",
+        "location": "Location:Pune, Maharashtra",
+        "salary": "₹ 8–12 LPA",
+        "posted": "Posted on:3 days ago",
+        "description": "Job DescriptionDevelop scalable backend logic, build REST APIs, integrate databases, and optimize performance.",
+        "requirements": [
+            "Strong Node.js/Express concepts",
+            "Experience with MongoDB and Redis",
+            "Knowledge of Docker, AWS basics",
+            "2+ years backend experience",
+            "Good problem-solving skills"
+        ],
+        "apply_link": "https://codematrix.in/apply"
+    },
+    {
+        "title": "UI/UX Designer",
+        "company": "Company:PixelCraft Studio",
+        "location": "Location:Mumbai",
+        "salary": "₹ 4.5–8.5 LPA",
+        "posted": "Posted on:4 days ago",
+        "description": "Job DescriptionCreate UI wireframes, prototypes, and design user-centered interfaces.",
+        "requirements": [
+            "Figma/Adobe XD skills",
+            "Strong design principles",
+            "Understanding of UX research",
+            "Portfolio required"
+        ],
+        "apply_link": "https://pixelcraftstudio.in/apply"
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "Company:SkyHost Solutions",
+        "location": "Location:Chennai",
+        "salary": "₹ 9–15 LPA",
+        "posted": "Posted on:6 days ago",
+        "description": "Job DescriptionManage AWS services, Kubernetes clusters, and cloud automation pipelines.",
+        "requirements": [
+            "AWS / Azure / GCP experience",
+            "Docker & Kubernetes knowledge",
+            "CI/CD pipelines (GitHub Actions/Jenkins)",
+            "3+ years cloud experience"
+        ],
+        "apply_link": "https://skyhost.cloud/apply"
+    },
+    {
+        "title": "AI/ML Engineer",
+        "company": "Company:NeuroTech Labs",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 12–20 LPA",
+        "posted": "Posted on:3 days ago",
+        "description": "Job DescriptionDesign and train ML/DL models, optimize inference pipelines, and work with data engineers for model deployment.",
+        "requirements": [
+            "Python, TensorFlow/PyTorch",
+            "Experience with NLP or Computer Vision",
+            "MLOps knowledge preferred",
+            "2–4 years experience"
+        ],
+        "apply_link": "https://neurotechlabs.ai/apply"
+    },
+    {
+        "title": "Frontend React Developer",
+        "company": "Company:CodeCraft Innovations",
+        "location": "Location:Mumbai",
+        "salary": "₹ 8–14 LPA",
+        "posted": "Posted on:Today",
+        "description": "Develop modern UI components using React.js and integrate REST APIs.",
+        "requirements": [
+            "React.js, Redux Toolkit",
+            "Tailwind / Material UI",
+            "Strong debugging skills"
+        ],
+        "apply_link": "https://codecraft.in/careers/apply"
+    },
+    {
+        "title": "Python Backend Developer",
+        "company": "Company:SoftNova Systems",
+        "location": "Location:Hyderabad",
+        "salary": "₹ 10–18 LPA",
+        "posted": "Posted on:Yesterday",
+        "description": "Work on API development, authentication systems, and database optimization.",
+        "requirements": [
+            "Python, FastAPI, Django",
+            "PostgreSQL, Redis",
+            "Experience with CI/CD pipelines"
+        ],
+        "apply_link": "https://softnova.io/apply"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Company:CloudMatrix India",
+        "location": "Location:Pune",
+        "salary": "₹ 11–17 LPA",
+        "posted": "Posted on:4 days ago",
+        "description": "Implement automation tools, manage Kubernetes clusters, monitor cloud performance.",
+        "requirements": [
+            "AWS / Azure",
+            "Terraform & Ansible",
+            "CI/CD (Jenkins, GitHub Actions)"
+        ],
+        "apply_link": "https://cloudmatrix.in/apply"
+    },
+    {
+        "title": "Flutter Developer",
+        "company": "Company:AppSphere Digital",
+        "location": "Location:Kolkata",
+        "salary": "₹ 7–13 LPA",
+        "posted": "Posted on:1 week ago",
+        "description": "Develop cross-platform mobile apps using Flutter. Integrate APIs and Firebase backend.",
+        "requirements": [
+            "Flutter / Dart",
+            "Firebase Authentication",
+            "REST API integration"
+        ],
+        "apply_link": "https://appsphere.co/apply"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Company:Google India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 30–55 LPA",
+        "posted": "Posted on:3 days ago",
+        "description": "Job DescriptionGoogle is looking for talented software engineers to work on large-scale distributed systems, backend architectures, AI/ML integrations, and performance-driven applications.",
+        "requirements": [
+            "Strong in C++, Java, or Python",
+            "Knowledge of Data Structures & Algorithms",
+            "Experience with distributed systems or cloud",
+            "Bachelor’s degree in CS or equivalent experience"
+        ],
+        "apply_link": "https://careers.google.com/jobs/results/"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Company:Microsoft India",
+        "location": "Location:Hyderabad",
+        "salary": "₹ 25–40 LPA",
+        "posted": "Posted on:4 days ago",
+        "description": "Job DescriptionMicrosoft is looking for backend developers to build high-performance services, scalable APIs, and cloud-native microservices using .NET, Azure, and distributed architecture.",
+        "requirements": [
+            "Strong experience in C#, .NET, or Java",
+            "Experience building scalable backend systems",
+            "Knowledge of Azure cloud services",
+            "Strong understanding of databases & caching"
+        ],
+        "apply_link": "https://jobs.careers.microsoft.com/global/en/search"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Company:Accenture India",
+        "location": "Location:Mumbai",
+        "salary": "₹ 5–10 LPA",
+        "posted": "Posted on:5 days ago",
+        "description": "Job DescriptionAccenture is hiring Data Analysts to analyze datasets, create dashboards, and support key business decisions using SQL, Python, and BI tools.",
+        "requirements": [
+            "Strong SQL & data cleaning skills",
+            "Experience with Python or R",
+            "Power BI or Tableau experience",
+            "Knowledge of Excel advanced functions"
+        ],
+        "apply_link": "https://www.accenture.com/in-en/careers/jobsearch"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Company:Amazon India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 15–28 LPA",
+        "posted": "Posted on:3 days ago",
+        "description": "Job DescriptionAmazon is hiring DevOps Engineers to manage cloud infrastructure, automate deployments, enhance CI/CD pipelines, and ensure system reliability on AWS.",
+        "requirements": [
+            "Strong AWS experience (EC2, Lambda, ECS, S3)",
+            "Hands-on with Docker & Kubernetes",
+            "CI/CD (Jenkins, GitHub Actions)",
+            "Monitoring tools (Prometheus, Grafana, CloudWatch)",
+            "Linux & scripting (Python/Bash)"
+        ],
+        "apply_link": "https://www.amazon.jobs/en/search?base_query=DevOps&location[]=india"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Company:Google India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 35–60 LPA",
+        "posted": "Posted on:2 days ago",
+        "description": "Job DescriptionDevelop and deploy ML models and pipelines for Google applications, working with TensorFlow, Python, and cloud infrastructure to build scalable AI solutions.",
+        "requirements": [
+            "Strong Python & TensorFlow/PyTorch experience",
+            "Experience with data pipelines & cloud platforms (GCP)",
+            "Knowledge of algorithms, statistics, and ML techniques",
+            "Bachelor’s or Master’s degree in CS, AI, or related field"
+        ],
+        "apply_link": "https://careers.google.com/jobs/results/?distance=50&hl=en&location=Bengaluru%2C%20India"
+    },
+    {
+        "title": "UI/UX Designer",
+        "company": "Company:Adobe India",
+        "location": "Location:Noida",
+        "salary": "₹ 12–20 LPA",
+        "posted": "Posted on:1 week ago",
+        "description": "Job DescriptionAdobe is seeking a UI/UX Designer to create engaging user interfaces for their products, improving usability and overall user experience.",
+        "requirements": [
+            "Proficient in Figma, Sketch, or Adobe XD",
+            "Strong visual design and interaction skills",
+            "Experience in user research and prototyping",
+            "Portfolio showcasing UI/UX projects"
+        ],
+        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/Adobe_Careers"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Company:Zoho Corporation",
+        "location": "Location:Chennai",
+        "salary": "₹ 9–18 LPA",
+        "posted": "Posted on:5 days ago",
+        "description": "Job DescriptionZoho is hiring Full Stack Developers to build end-to-end SaaS applications, working with Angular, Node.js, and MongoDB for scalable solutions.",
+        "requirements": [
+            "Proficiency in Angular and Node.js",
+            "Experience with MongoDB or relational databases",
+            "Knowledge of RESTful APIs and microservices",
+            "Understanding of CI/CD pipelines"
+        ],
+        "apply_link": "https://www.zoho.com/careers.html"
+    },
+    {
+        "title": "Cyber Security Analyst",
+        "company": "Company:IBM India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 12–25 LPA",
+        "posted": "Posted on:6 days ago",
+        "description": "Job DescriptionIBM India is hiring Cyber Security Analysts to monitor and protect IT systems, identify vulnerabilities, and implement security solutions across platforms.",
+        "requirements": [
+            "Experience with network & application security",
+            "Knowledge of SIEM tools, firewalls, and IDS/IPS",
+            "Familiarity with cloud security (AWS, Azure)",
+            "Strong analytical and problem-solving skills"
+        ],
+        "apply_link": "https://www.ibm.com/in-en/employment/"
+    },
+    {
+        "title": "AI/ML Engineer",
+        "company": "Company:Nvidia India",
+        "location": "Location:Bengaluru",
+        "salary": "₹ 30–50 LPA",
+        "posted": "Posted on:4 days ago",
+        "description": "Job DescriptionNvidia India is seeking AI/ML Engineers to develop and optimize deep learning models, implement GPU-accelerated pipelines, and deploy AI solutions for cutting-edge applications.",
+        "requirements": [
+            "Strong Python and TensorFlow/PyTorch skills",
+            "Experience with deep learning architectures",
+            "Knowledge of GPU programming (CUDA)",
+            "Understanding of ML pipelines and cloud deployment"
+        ],
+        "apply_link": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+    }
+]
